@@ -50,5 +50,5 @@ The purpose of this repository is:
 
 👩‍💻 Author
 
-Malaika Aiman 
+MAHI!
 CS201 Student
