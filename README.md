@@ -48,8 +48,8 @@ The purpose of this repository is:
 
 ---
 
-👩‍💻 Author MALAIKA
+👩‍💻 Author 
 
-MAHI!
+MALAIKA!
 CS201 Student
-M
+
